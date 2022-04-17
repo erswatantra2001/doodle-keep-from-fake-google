@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/doodle-keep-from-fake-google/static/css/main.5aa66bcd.css",
+    "main.js": "/doodle-keep-from-fake-google/static/js/main.43ea8b4b.js",
+    "static/media/267503460_958099581468530__n.jpg": "/doodle-keep-from-fake-google/static/media/267503460_958099581468530_5160424842287441270_n.7a62fa2756c87519cb85.jpg",
+    "static/media/instagram.png": "/doodle-keep-from-fake-google/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/linkedin.png": "/doodle-keep-from-fake-google/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/doodle-keep-from-fake-google/index.html",
+    "main.5aa66bcd.css.map": "/doodle-keep-from-fake-google/static/css/main.5aa66bcd.css.map",
+    "main.43ea8b4b.js.map": "/doodle-keep-from-fake-google/static/js/main.43ea8b4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aa66bcd.css",
+    "static/js/main.43ea8b4b.js"
+  ]
+}
